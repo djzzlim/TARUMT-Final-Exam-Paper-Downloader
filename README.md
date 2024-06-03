@@ -20,7 +20,7 @@ To get started, simply clone this repository to your local machine and follow th
 2. Run the script:
 
    ```bash
-   python main.py
+   python linux.py
    ```
 
 ## Features
