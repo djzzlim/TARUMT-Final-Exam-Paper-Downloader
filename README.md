@@ -32,3 +32,5 @@ To get started, simply clone this repository to your local machine and follow th
 
 ### Contributions
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your changes.
+
+Only tested in Linux ;)
